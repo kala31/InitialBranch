@@ -14,6 +14,11 @@ h1 {
 p {
   margin: 10px;
 }
+#para {
+  font-family: arial narrow;
+  color: blue;
+  font-weight: bold;
+}
 
 #ItemHeading {
   border-bottom: 2px solid black;
